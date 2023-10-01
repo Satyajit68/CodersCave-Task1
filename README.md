@@ -1,7 +1,7 @@
 # Terrorism
 
 # CodersCave-Task
-The tasks I accomplished while serving as an intern for The Sparks Foundation are stored in this repository.
+The tasks I accomplished while serving as an intern for CodersCave are stored in this repository.
 
 Internship Category - Data Science and Business Analytics Internship Duration - 1 Month ( October -2023 ) Internship Type - Work from Home
 
